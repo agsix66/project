@@ -1,7 +1,0 @@
-id,cedula,nombre,apellido,email,password,tipo
-1,8-1012-121,Ana,Gómez,ana@gmail.com,pass123,estudiante
-2,8-1021-444,Luis,Martínez,luis@gmail.com,pass456,estudiante
-3,8-1077-888,Sofía,López,sofia@gmail.com,pass789,estudiante
-4,8-1099-000,Carlos,Pérez,carlos@gmail.com,prof123,instructor
-5,8-101-111,Lucía,Herrera,lucia@gmail.com,prof456,instructor
-6,8-888-999,Marta,Ríos,marta.rios@admin.com,admin001,administrador
